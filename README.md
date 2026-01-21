@@ -46,7 +46,6 @@ Website manajemen event dan volunteer mahasiswa berbasis PHP native, MySQL, HTML
 - Admin: Buat akun dengan role admin secara manual di database atau register lalu update role
 - User: Register melalui halaman register
 
-## Catatan
 
 - Pastikan folder `assets/uploads/` memiliki permission write untuk upload dokumentasi
 - Tambahkan gambar di `assets/img/` untuk tampilan yang lebih baik
